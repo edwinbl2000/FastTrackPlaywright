@@ -4,6 +4,7 @@ import { parse } from 'csv-parse/sync';
 import { chromium, expect, test, Page  } from "@playwright/test";
 
 /**
+ * Autor: Edwin Giovanny Barreto Lizcano 
  * Automated use cases for fasttrack
  * https://demo.ft-crm.com/tour
  */
