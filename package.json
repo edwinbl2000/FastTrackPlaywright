@@ -1,0 +1,16 @@
+{
+  "name": "fastracktest",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "@playwright/test": "^1.36.1"
+  },
+  "dependencies": {
+    "csv-parse": "^5.4.0"
+  }
+}
